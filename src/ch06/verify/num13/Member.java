@@ -1,4 +1,4 @@
-package ch06.verify.num1314;
+package ch06.verify.num13;
 
 public class Member {
     String name;
